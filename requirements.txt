@@ -1,3 +1,12 @@
+appdirs==1.4.4
+arrow==1.0.2
+asgiref==3.3.1
+certifi==2020.12.5
+chardet==4.0.0
+click==7.1.2
+cycler==0.10.0
+del==0.0.1
+distlib==0.3.1
 Django==3.1.7
 django-ckeditor==6.0.0
 django-crispy-forms==1.11.2
